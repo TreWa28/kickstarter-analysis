@@ -11,7 +11,7 @@ Using a dataset on entertainment to help with launching a Kickstarter campaign t
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
-My greatest challeneges were figuring out how to write the functions correctly in order to gather the correct information.
+My greatest challenges were figuring out how to write the functions correctly in order to gather the correct information.
 
 ## Results
 
