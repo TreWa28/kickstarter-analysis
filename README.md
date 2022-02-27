@@ -3,10 +3,11 @@
 ## Overview of Project
 Louise wants to get her play funded through a kickstarter campaign.   
 ### Purpose
-Using a dataset on entertainment to help with launching a Kickstarter campaign to find the best ways to fund a play as well as the best time of year to launch a campaign.
+Using a dataset on entertainment to help with launching a Kickstarter campaign we find the best ways to fund a play as well as the best time of year to launch a campaign.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Name of Picture](RESOURCES/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
