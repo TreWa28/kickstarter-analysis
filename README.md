@@ -9,7 +9,7 @@ Using a dataset based on entertainment to help us with launching a Kickstarter c
 ### Analysis of Outcomes Based on Launch Date
 For the analysis of outcomes based on launch date I created a pivot table with parent category and years in filters,date created conversion in rows, outcomes in columns, and count of outcomes in values. This pivot table details the number of theatre campaigns that were successful, failed, or canceled based on their laucnh dates in months between January and December. The line graph below deatils the results of my pivot table.   
 
-![Theater_Outcomes_vs_Launch](/Resouces/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 For the analysis of outcomes based on goals I created a chart that shows the amount of kickstarter goals for plays here in the US from less than $1,000 to $50,000 or more. The chart shows the total numbers and percentages of goals that were either successful, failed or canceled. The line graph below details those percentages.
