@@ -7,7 +7,7 @@ Using a dataset on entertainment to help with launching a Kickstarter campaign w
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Name of Picture](RESOURCES/Theater_Outcomes_vs_Launch.png)
+!Theatre Outcomes Based on Launchdate](RESOURCES/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
