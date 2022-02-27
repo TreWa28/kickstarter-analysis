@@ -14,7 +14,7 @@ For the analysis of outcomes based on launch date I created a pivot table with p
 ### Analysis of Outcomes Based on Goals
 For the analysis of outcomes based on goals I created a chart that shows the amount of kickstarter goals for plays here in the US from less than $1,000 to $50,000 or more. The chart shows the total numbers and percentages of goals that were either successful, failed or canceled. The line graph below details those percentages.
 
-![Outcomes vs Goals](/Resouces/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 My greatest challenges were figuring out how to write the functions correctly. I needed the correct functions in order to gather the correct information to create columns and rows in the Outcomes Based on Goals worksheet. Also the filtering on the graph to create the corrrect image was difficult.
